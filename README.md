@@ -76,7 +76,7 @@ I follow <b>First Principles Thinking</b>, so when learning programming, I spend
 [![Sobap](https://github-readme-stats.vercel.app/api/pin/?username=TunKitter&repo=sobap&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/TunKitter?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -84,22 +84,22 @@ I follow <b>First Principles Thinking</b>, so when learning programming, I spend
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/TunKitter">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TunKitter&theme=radical&border=FFFFFF&background=0D1117" alt="TunKitter's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/TunKitter">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TunKitter&theme=radical" alt="TunKitter's GitHub Contribution"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<!-- <a> 
+    <a href="https://github.com/TunKitter"><img alt="TunKitter's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TunKitter&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/TunKitter"><img alt="TunKitter's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TunKitter&langs_count=8&layout=compact&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+-->
 
-
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![TunKitter's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TunKitter&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
