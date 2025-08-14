@@ -37,7 +37,7 @@ I follow <b>First Principles Thinking</b>, so when learning programming, I spend
 
 <br/>
 
-## Skills
+# Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
@@ -66,7 +66,7 @@ I follow <b>First Principles Thinking</b>, so when learning programming, I spend
 
 <br/>
 
-## Top Open Source -
+# Top Open Sources
 [![Sobap](https://github-readme-stats.vercel.app/api/pin/?username=TunKitter&repo=sobap&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
 [![Sobap](https://github-readme-stats.vercel.app/api/pin/?username=TunKitter&repo=sobap&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
 [![Sobap](https://github-readme-stats.vercel.app/api/pin/?username=TunKitter&repo=sobap&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
@@ -100,4 +100,4 @@ I follow <b>First Principles Thinking</b>, so when learning programming, I spend
 </a>
 -->
 
-![TunKitter's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TunKitter&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![TunKitter's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TunKitter&custom_title=TunKitter's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
