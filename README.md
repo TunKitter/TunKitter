@@ -31,12 +31,8 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do and learn everything <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Contact me: tunkitjava@gmail.com<br/><br/>
-
+Besides programming, I enjoy math, physics, and art. Many years of self-learning have helped me discover one of the greatest wonders in this world: knowledge.<br/>
+I follow <b>First Principles Thinking</b>, so when learning programming, I spend a lot of time understanding the core of the technology or language I study. This helps me adapt and create in my own way based on those fundamentals.
 </p>
 
 <br/>
