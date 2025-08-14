@@ -36,8 +36,6 @@ I follow <b>First Principles Thinking</b>, so when learning programming, I spend
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Skills
 
